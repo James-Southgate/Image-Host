@@ -1,1 +1,1 @@
-# Think-Patented-Image-Host
+Image-Host
